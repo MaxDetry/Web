@@ -2,3 +2,7 @@ readme.md
 *.txt
 readme.md
 tmp/*
+*.txt
+!info.txt
+tmp/*
+
